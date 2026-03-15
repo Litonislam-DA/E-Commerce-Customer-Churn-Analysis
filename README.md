@@ -1,7 +1,5 @@
 ## 🛍️ [E-Commerce Customer Churn Analysis](https://github.com/Litonislam-DA/E-Commerce-Customer-Churn-Analysis)
----
 
----
 
 📉 E-Commerce Customer Churn & Retention Analysis
 
@@ -14,6 +12,12 @@ litonislamnext@gmail.com
 
 
 ## Dashboard Preview
+
+---
+
+---
+
+
 <p align="center">
   <img src="Dashboard.png" width="100%">
 </p>
